@@ -1,0 +1,16 @@
+<?php $page = 'info'; ?>
+<?php include('../includes/header.php') ?>
+
+<p id="intro">On this page I've put a few links about the local area and how you can get here. Do let us know if you are desperate for a lift and we'll try and hook you up with someone coming from the same direction.</p>
+<dl>
+<dt><h3>Accomodation</h3><dt>
+<dd><p class="nomarg">If you are wanting to stay in the area, there are lots of B&B's, it would be best if you contact Ellen and she sort this out. She will let you know what is available. You can contact Ellen via:</p>
+<ul>
+<li>Email: <a href="mailto:ellenmarriage@whomwah.com">ellenmarriage@whomwah.com</a></li>
+<li>Mobile: 07818067584</li>
+</ul></dd>
+<dt><h3>Transport</h3><dt>
+<dd><p class="nomarg"><strong>BY CAR</strong> Parking is available at the front and to the side of the pub and also in the field adjacent at busy times. If you do come by car then a map is essential as the roads are small and the signs infrequent.</p><p class="nomarg"><strong>BY TRAIN/BUS/TAXI</strong> The nearest train station is <a href="http://www.nationalrail.co.uk/stations_destinations/pois/uk_ports_and_harbour/poole.poole.htm">Poole</a>. From Poole you will the need to get a <a href="http://www.wdbus.co.uk/htm/ttSouthern/S_182-183.pdf">Number 183 Wilts and Dorset bus</a> that goes to Blandford. I think you will likely need to get a taxi from there. Probably not a good idea then.</p></dd>
+</dl>
+
+<?php include('../includes/footer.php') ?>

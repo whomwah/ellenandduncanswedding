@@ -1,0 +1,308 @@
+body {
+  margin: 0;
+  padding: 0;
+  font: 13px/1.6em "Lucida Grande", "Helvetice Neue", Helvetica, Verdana, Sans-serif;
+  color: #333;
+  background: #bef;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+ol {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
+ol li {
+  margin: 0;
+  padding: 0;
+}
+dl {
+  margin: 0;
+  padding: 0;
+}
+dt {
+  margin: 0;
+  padding: 0;
+}
+dd {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: Verdana, Sans-serif; 
+  font-size: 20px;
+}
+h2 {
+  margin: 0 0 .75em;
+  font-size: 18px;
+}
+h3 {
+  margin: 0 0 .75em;
+  font-size: 14px;
+}
+h4 {
+  margin: 0;
+}
+p {
+  margin: 0 0 .75em;
+}
+input, select, textarea {
+  margin: 0;
+}
+acronym {
+  font-style: normal;
+  border-bottom: 1px dotted #333;
+  cursor: help;
+}
+
+
+/* Link Styles
+----------------------------------------------- */
+a:link {
+  color: #29c;
+  text-decoration: none;
+}
+a:visited {
+  color: #29c;
+  text-decoration: none;
+}
+a:hover {
+  color: #29c;
+  text-decoration: underline;
+}
+a:link img,
+a:visited img,
+a:hover img {
+  border: 0;
+  background: none;
+}
+
+/* Navigation Styles
+----------------------------------------------- */
+#nav {
+  margin: 0 0 0.2em 0;
+  padding: 14px 0;
+  text-align: right;
+  font-size: 18px;
+}
+#nav li {
+  display: inline;
+  margin-left: 12px;
+}
+#nav a:link,
+#nav a:visited,
+#nav a:hover {
+  color: #fff;
+}
+#nav sup {
+  display: inline;
+  font-style: italic;
+  font-size: 12px;
+  color: #035;
+  text-decoration: none;
+}
+.home #nav #nav-home a:link,
+.home #nav #nav-home a:visited,
+.home #nav #nav-home a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.schedule #nav #nav-schedule a:link,
+.schedule #nav #nav-schedule a:visited,
+.schedule #nav #nav-schedule a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.menu #nav #nav-menu a:link,
+.menu #nav #nav-menu a:visited,
+.menu #nav #nav-menu a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.gifts #nav #nav-gifts a:link,
+.gifts #nav #nav-gifts a:visited,
+.gifts #nav #nav-gifts a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.directions #nav #nav-directions a:link,
+.directions #nav #nav-directions a:visited,
+.directions #nav #nav-directions a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.photos #nav #nav-photos a:link,
+.photos #nav #nav-photos a:visited,
+.photos #nav #nav-photos a:hover {
+  color: #268;
+  text-decoration: none;
+}
+.info #nav #nav-info a:link,
+.info #nav #nav-info a:visited,
+.info #nav #nav-info a:hover {
+  color: #268;
+  text-decoration: none;
+}
+
+/* Structural Styles
+----------------------------------------------- */
+
+#wrapper {
+  margin: 0;
+  padding: 0;
+  background: #99f1b8 url(/assets/bgd-body.gif) repeat-x;
+}
+.wrapper2, .nav_wrapper {
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 20px 0 0 0;
+  width: 760px;
+}
+.nav_wrapper {
+  padding: 0;
+}
+
+/* Homepage Styles
+----------------------------------------------- */
+
+.wrapper2 p {
+  font-size: 1.3em;
+  line-height: 1.4em;
+}
+.wrapper2 p a:link,
+.wrapper2 p a:visited {
+  color: #268;
+}
+
+.wrapper2 p, .wrapper2 ul, .wrapper2 dl {
+  margin:0 0 1.4em 0;
+  color: #035;
+}
+
+#taglines {
+  margin: 0;
+  border-top: 2px solid #4a9;
+  background: #5bc;
+  padding: 10px 0 8px;
+}
+
+#taglines #tagline {
+  margin: 0 0 0.3em 0;
+  text-align: center;
+  padding: 0;
+  color: #035;
+}
+
+#taglines #tagline span {
+  font-size:0.4em;
+  position:relative;
+  bottom:10px;
+  font-weight:normal;
+}
+
+#taglines #topquote {
+  margin:0;
+  text-align: center;
+  font-size: 18px;
+  color: #268;
+  font-weight: normal;
+  font-style: italic;
+}
+#taglines a:link,
+#taglines a:visited {
+  text-decoration: underline;
+  color: #268;
+}
+
+/* Section Styles
+----------------------------------------------- */
+
+#featurebox {
+  margin: 0 0 30px;
+}
+#featureboxX {
+  margin: 0 -20px;
+  padding: 19px 19px 9px;
+  background: #7cb;
+  border: 1px solid #4a9;
+}
+#featurebox li {
+  float: left;
+  display: block;
+  margin: 0 20px 16px 0;
+  width: 240px;
+  text-align: center;
+  font-size: 12px;
+  line-height: 1.4em;
+  color: #268;
+}
+#featurebox li.right {
+  float: left;
+  margin: 0;
+}
+#featurebox li img {
+  margin: 0 0 4px;
+}
+
+/* Page Styles
+----------------------------------------------- */
+
+p.nomarg { margin-bottom: 0.2em; }
+p.photos { 
+	font-size: 0.8em;
+	width:50%;
+	float:left;
+}
+
+.menu dl {
+  padding:1.2em 0;
+  text-align: center;
+}
+.menu h3 {
+  font-size: 1.8em;
+  margin-right: 25%;
+  margin-left: 25%;
+  padding: 0.2em 0;
+  font-weight: normal;
+  background: #99f1b8 url(/assets/bgd-body.gif) repeat-x;
+}
+.menu dl dd ul li {
+  font-size: 1.4em;
+  line-height: 1.2em;
+}
+.schedule dl {
+  width:50%;
+}
+.schedule h3, .info h3 {
+  font-size: 1.6em;
+  padding: 0.1em 0;
+}
+.schedule dd, .info dd {
+  font-size: 0.9em;
+}
+
+/* Footer Styles
+----------------------------------------------- */
+
+#footer {
+  clear: both;
+  overflow: hidden;
+  margin: 0;
+  padding: 10px 0;
+  color: #035;
+  background: #bef;
+  border-top: 2px solid #29c;
+  text-align:center;
+}
+#footer a:link,
+#footer a:visited,
+#footer a:hover {
+  color: #29c;
+}
