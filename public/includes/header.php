@@ -2,9 +2,9 @@
   "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-  <title>Ellen and Duncan's Wedding | Friday, 27th July 2007</title>
-  <meta name="robots" content="noindex,nofollow">
-  <link href="/css/base.css" media="screen" rel="Stylesheet" type="text/css" />
+<title>Ellen and Duncan's Wedding | Friday, 27th July 2007</title>
+<meta name="description" content="The website of the wedding of Duncan Robertson and Ellen Marriage." />
+<link href="/css/base.css" media="screen" rel="Stylesheet" type="text/css" />
 </head>
 <body class="<?php echo $page; ?>">
   <div id="wrapper">

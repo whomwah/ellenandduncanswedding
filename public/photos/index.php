@@ -4,7 +4,7 @@
 <p id="intro"><strong>Photos of the special day</strong>. Thankfully, lots of people took <a href="#wedding">wonderful photos on the day</a>. You can see them all using the links below (Click the images). I've also stuck a link to <a href="#honeymoon">photos of our honeymoon adventure</a>. As I get word of more I'll keep adding the links below:</p>
 
 <h1 id="wedding">The Wedding</h1>
-<p>If you want to see all the photos together for the day you can do so <a href="http://www.flickr.com/tags/ellenandduncanswedding">via this link</a>.</p>
+<p>All the photos together.</p>
 <p class="photos" style="clear:left;"><a href="http://www.flickr.com/photos/timbw/sets/72157601073453376/"><img src="http://farm2.static.flickr.com/1240/938068712_852ec13ad4_m.jpg"><br />Taken by Tim Barrow-Williams</a></p>
 
 <p class="photos"><a href="http://www.flickr.com/photos/hilken/"><img src="http://farm2.static.flickr.com/1161/928407560_3a31ce38df_m.jpg"><br />Taken by Paul Hilken</a></p>
